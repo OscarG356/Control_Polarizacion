@@ -1,0 +1,22 @@
+# Archivos de respaldo e intermedios de FreeCAD
+*.FCBak
+*.FCStd1
+*.FCStd2
+*~
+
+# Archivos de Android / Compilados
+*.apk
+
+# Archivos de compilación de Arduino / IDEs
+*.elf
+*.bin
+*.hex
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Configuración de entornos de desarrollo (VS Code / JetBrains / etc.)
+.vscode/
+.idea/
+.obsidian/
